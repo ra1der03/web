@@ -1,0 +1,74 @@
+[
+  {
+    "company_name": "Ай-Теко (I-Teco)",
+    "link": "https://spb.hh.ru/vacancy/93279986?query=python&hhtmFrom=vacancy_search_list",
+    "salary": null,
+    "city": "Москва"
+  },
+  {
+    "company_name": "ООО Ред Софт",
+    "link": "https://spb.hh.ru/vacancy/91718882?query=python&hhtmFrom=vacancy_search_list",
+    "salary": null,
+    "city": "Москва"
+  },
+  {
+    "company_name": "Группа компаний АРКАН",
+    "link": "https://spb.hh.ru/vacancy/92394185?query=python&hhtmFrom=vacancy_search_list",
+    "salary": "150 000 – 220 000 ₽",
+    "city": "Санкт-Петербург, Обводный Канал"
+  },
+  {
+    "company_name": "Ростелеком - Центры обработки данных",
+    "link": "https://spb.hh.ru/vacancy/93274011?query=python&hhtmFrom=vacancy_search_list",
+    "salary": null,
+    "city": "Москва"
+  },
+  {
+    "company_name": "MIA Dev",
+    "link": "https://spb.hh.ru/vacancy/93048944?query=python&hhtmFrom=vacancy_search_list",
+    "salary": "250 000 – 320 000 ₽",
+    "city": "Москва"
+  },
+  {
+    "company_name": "ООО WaveAccess",
+    "link": "https://spb.hh.ru/vacancy/92212007?query=python&hhtmFrom=vacancy_search_list",
+    "salary": null,
+    "city": "Санкт-Петербург"
+  },
+  {
+    "company_name": "Production IT",
+    "link": "https://spb.hh.ru/vacancy/91937424?query=python&hhtmFrom=vacancy_search_list",
+    "salary": "80 000 – 140 000 ₽",
+    "city": "Москва"
+  },
+  {
+    "company_name": "ЛАНИТ-ТЕРКОМ",
+    "link": "https://spb.hh.ru/vacancy/92218943?query=python&hhtmFrom=vacancy_search_list",
+    "salary": null,
+    "city": "Санкт-Петербург"
+  },
+  {
+    "company_name": "idaproject",
+    "link": "https://spb.hh.ru/vacancy/92967625?query=python&hhtmFrom=vacancy_search_list",
+    "salary": null,
+    "city": "Москва, Калужская"
+  },
+  {
+    "company_name": "Instories",
+    "link": "https://spb.hh.ru/vacancy/91711424?query=python&hhtmFrom=vacancy_search_list",
+    "salary": null,
+    "city": "Москва"
+  },
+  {
+    "company_name": "Гарант-Парк-Интернет",
+    "link": "https://spb.hh.ru/vacancy/92187784?query=python&hhtmFrom=vacancy_search_list",
+    "salary": "от 200 000 ₽",
+    "city": "Москва, Автозаводская и еще 1 "
+  },
+  {
+    "company_name": "Lesta Games",
+    "link": "https://spb.hh.ru/vacancy/84644126?query=python&hhtmFrom=vacancy_search_list",
+    "salary": null,
+    "city": "Москва, Савёловская и еще 2 "
+  }
+]
